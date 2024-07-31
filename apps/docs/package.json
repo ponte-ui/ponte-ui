@@ -16,7 +16,6 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@repo/eslint-config": "workspace:*",
     "@storybook/addon-actions": "^7.6.17",
     "@storybook/addon-essentials": "^7.6.17",
     "@storybook/addon-links": "^7.6.17",
@@ -26,7 +25,7 @@
     "eslint": "^8.57.0",
     "serve": "^14.2.1",
     "storybook": "^7.6.17",
-    "@repo/typescript-config": "workspace:*",
+    "@ponte-ui/typescript-config": "workspace:*",
     "typescript": "^5.3.3",
     "vite": "^5.1.4"
   }
